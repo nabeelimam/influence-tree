@@ -1,0 +1,2442 @@
+{
+  "musicians": {
+    "Tim Henson": {
+      "name": "Tim Henson",
+      "yob": 1993,
+      "yod": null,
+      "affiliations": [
+        "Polyphia"
+      ],
+      "instruments": [
+        "Guitar"
+      ],
+      "genres": [
+        "Progressive Rock",
+        "Instrumental Rock",
+        "Math Rock"
+      ],
+      "influences": [
+        "Steve Vai",
+        "Joe Satriani",
+        "John Mayer",
+        "Chic Corea",
+        "Animals as Leaders",
+        "Periphery",
+        "Metallica",
+        "Dream Theater",
+        "The Beatles",
+        "Jimi Hendrix",
+        "Nirvana",
+        "The 1975",
+        "Chon"
+      ]
+    },
+    "Steve Vai": {
+      "name": "Steve Vai",
+      "yob": 1960,
+      "yod": null,
+      "affiliations": [
+        "Frank Zappa",
+        "David Lee Roth",
+        "Whitesnake",
+        "G3",
+        "Solo Artist"
+      ],
+      "instruments": [
+        "Guitar",
+        "Bass Guitar",
+        "Keyboards",
+        "Vocals"
+      ],
+      "genres": [
+        "Rock",
+        "Metal",
+        "Instrumental Rock",
+        "Progressive Rock"
+      ],
+      "influences": [
+        "Jimi Hendrix",
+        "Jimmy Page",
+        "Jeff Beck",
+        "Joe Satriani",
+        "Frank Zappa",
+        "Eric Clapton",
+        "Al Di Meola",
+        "John McLaughlin",
+        "The Beatles",
+        "Led Zeppelin"
+      ]
+    },
+    "Joe Satriani": {
+      "name": "Joe Satriani",
+      "yob": 1956,
+      "yod": null,
+      "affiliations": [
+        "Satch",
+        "G3",
+        "Chickenfoot"
+      ],
+      "instruments": [
+        "Guitar"
+      ],
+      "genres": [
+        "Rock",
+        "Instrumental rock",
+        "Hard rock",
+        "Heavy metal"
+      ],
+      "influences": [
+        "Jimi Hendrix",
+        "Jimmy Page",
+        "Jeff Beck",
+        "Eric Clapton",
+        "David Gilmour",
+        "Ritchie Blackmore",
+        "The Beatles",
+        "Cream",
+        "Led Zeppelin",
+        "Deep Purple",
+        "Van Halen",
+        "Frank Zappa",
+        "The Ventures",
+        "The Shadows"
+      ]
+    },
+    "John Mayer": {
+      "name": "John Mayer",
+      "yob": 1977,
+      "yod": null,
+      "affiliations": [
+        "John Mayer Trio",
+        "Dead & Company"
+      ],
+      "instruments": [
+        "Guitar",
+        "Vocals",
+        "Piano"
+      ],
+      "genres": [
+        "Blues",
+        "Rock",
+        "Pop",
+        "Folk",
+        "Jazz"
+      ],
+      "influences": [
+        "Stevie Ray Vaughan",
+        "Eric Clapton",
+        "Jimi Hendrix",
+        "B.B. King",
+        "Bob Dylan",
+        "The Beatles",
+        "David Bowie",
+        "Prince",
+        "James Taylor",
+        "Bill Evans",
+        "Albert King",
+        "John Lee Hooker",
+        "Buddy Guy",
+        "Van Morrison",
+        "Simon & Garfunkel"
+      ]
+    },
+    "Chic Corea": {
+      "name": "Chick Corea",
+      "yob": 1941,
+      "yod": 2021,
+      "affiliations": [
+        "Return to Forever",
+        "Chick Corea Elektric Band",
+        "Chick Corea Akoustic Band",
+        "The Chick Corea/Hiromi Duo"
+      ],
+      "instruments": [
+        "Piano",
+        "Keyboards",
+        "Synthesizers"
+      ],
+      "genres": [
+        "Jazz",
+        "Jazz Fusion",
+        "Classical",
+        "Latin Jazz"
+      ],
+      "influences": [
+        "Bud Powell",
+        "Thelonious Monk",
+        "Bill Evans",
+        "Oscar Peterson",
+        "Miles Davis",
+        "John Coltrane",
+        "Herbie Hancock",
+        "Duke Ellington",
+        "George Gershwin",
+        "Bach",
+        "Stravinsky",
+        "Brahms"
+      ]
+    },
+    "Animals as Leaders": {
+      "name": "Animals as Leaders",
+      "yob": 2007,
+      "yod": null,
+      "affiliations": [
+        "Tosin Abasi",
+        "Misha Mansoor",
+        "Javier Reyes"
+      ],
+      "instruments": [
+        "Guitar"
+      ],
+      "genres": [
+        "Progressive Metal",
+        "Instrumental Rock",
+        "Djent"
+      ],
+      "influences": [
+        "Meshuggah",
+        "Dream Theater",
+        "Steve Vai",
+        "Joe Satriani",
+        "Periphery",
+        "The Mars Volta",
+        "Animals as Leaders",
+        "Chon",
+        "Plini",
+        "Between the Buried and Me"
+      ]
+    },
+    "Periphery": {
+      "name": "Periphery",
+      "yob": 2005,
+      "yod": null,
+      "affiliations": [
+        "Periphery"
+      ],
+      "instruments": [
+        "Guitar",
+        "Bass",
+        "Drums",
+        "Vocals"
+      ],
+      "genres": [
+        "Progressive Metal",
+        "Metalcore"
+      ],
+      "influences": [
+        "Meshuggah",
+        "Dream Theater",
+        "Between the Buried and Me",
+        "The Dillinger Escape Plan",
+        "Tool",
+        "Opeth",
+        "Deftones",
+        "Karnivool",
+        "Strapping Young Lad",
+        "August Burns Red"
+      ]
+    },
+    "Metallica": {
+      "name": "Metallica",
+      "yob": 1981,
+      "yod": null,
+      "affiliations": [
+        "Metallica"
+      ],
+      "instruments": [
+        "Vocals",
+        "Guitar",
+        "Bass",
+        "Drums"
+      ],
+      "genres": [
+        "Heavy Metal",
+        "Thrash Metal"
+      ],
+      "influences": [
+        "Black Sabbath",
+        "Deep Purple",
+        "Led Zeppelin",
+        "Mot\u00f6rhead",
+        "Judas Priest",
+        "AC/DC",
+        "Van Halen",
+        "Iron Maiden",
+        "UFO",
+        "Mercyful Fate",
+        "Diamond Head",
+        "Blue \u00d6yster Cult",
+        "Rush",
+        "The Misfits",
+        "The Ramones"
+      ]
+    },
+    "Dream Theater": {
+      "name": "Dream Theater",
+      "yob": 1985,
+      "yod": null,
+      "affiliations": [
+        "Liquid Tension Experiment",
+        "Transatlantic"
+      ],
+      "instruments": [
+        "Guitar",
+        "Bass",
+        "Drums",
+        "Keyboards",
+        "Vocals"
+      ],
+      "genres": [
+        "Progressive Metal",
+        "Progressive Rock",
+        "Heavy Metal"
+      ],
+      "influences": [
+        "Rush",
+        "Yes",
+        "Pink Floyd",
+        "King Crimson",
+        "Metallica",
+        "Judas Priest",
+        "Iron Maiden",
+        "Black Sabbath",
+        "Genesis",
+        "The Beatles",
+        "Frank Zappa",
+        "Van Halen",
+        "Queen",
+        "The Who",
+        "Led Zeppelin"
+      ]
+    },
+    "The Beatles": {
+      "name": "The Beatles",
+      "yob": 1960,
+      "yod": 1970,
+      "affiliations": [
+        "The Quarrymen",
+        "The Beatles"
+      ],
+      "instruments": [
+        "Vocals",
+        "Guitar",
+        "Bass",
+        "Drums",
+        "Piano"
+      ],
+      "genres": [
+        "Rock",
+        "Pop",
+        "Psychedelic Rock",
+        "Folk Rock"
+      ],
+      "influences": [
+        "Chuck Berry",
+        "Little Richard",
+        "Buddy Holly",
+        "Elvis Presley",
+        "The Everly Brothers",
+        "Bob Dylan",
+        "Carl Perkins",
+        "Ray Charles",
+        "The Beach Boys",
+        "Indian Classical Music",
+        "Bach",
+        "B.B. King",
+        "The Byrds",
+        "The Kinks",
+        "The Who",
+        "Simon & Garfunkel"
+      ]
+    },
+    "Jimi Hendrix": {
+      "name": "Jimi Hendrix",
+      "yob": 1942,
+      "yod": 1970,
+      "affiliations": [
+        "The Jimi Hendrix Experience",
+        "Band of Gypsys"
+      ],
+      "instruments": [
+        "Guitar",
+        "Vocals"
+      ],
+      "genres": [
+        "Rock",
+        "Psychedelic Rock",
+        "Blues Rock"
+      ],
+      "influences": [
+        "B.B. King",
+        "Chuck Berry",
+        "Robert Johnson",
+        "Muddy Waters",
+        "Little Richard",
+        "Elvis Presley",
+        "Buddy Holly",
+        "The Beatles",
+        "Bob Dylan",
+        "Albert King",
+        "Screamin' Jay Hawkins",
+        "T-Bone Walker",
+        "Howlin' Wolf",
+        "The Isley Brothers",
+        "James Brown"
+      ]
+    },
+    "Nirvana": {
+      "name": "Nirvana",
+      "yob": 1987,
+      "yod": 1994,
+      "affiliations": [
+        "Nirvana"
+      ],
+      "instruments": [
+        "Vocals",
+        "Guitar",
+        "Bass",
+        "Drums"
+      ],
+      "genres": [
+        "Grunge",
+        "Alternative Rock",
+        "Punk Rock"
+      ],
+      "influences": [
+        "The Beatles",
+        "The Melvins",
+        "Black Flag",
+        "The Pixies",
+        "David Bowie",
+        "Led Zeppelin",
+        "R.E.M.",
+        "Sonic Youth",
+        "The Stooges",
+        "The Sex Pistols",
+        "Kiss",
+        "The Who",
+        "The Ramones",
+        "The Smiths",
+        "The Cure"
+      ]
+    },
+    "The 1975": {
+      "name": "The 1975",
+      "yob": 2002,
+      "yod": null,
+      "affiliations": [
+        "The 1975"
+      ],
+      "instruments": [
+        "Vocals",
+        "Guitar",
+        "Bass",
+        "Drums",
+        "Keyboards"
+      ],
+      "genres": [
+        "Pop",
+        "Rock",
+        "Indie",
+        "Electronic"
+      ],
+      "influences": [
+        "The Cure",
+        "The Smashing Pumpkins",
+        "The 1975",
+        "The Strokes",
+        "The xx",
+        "David Bowie",
+        "Radiohead",
+        "Talking Heads",
+        "Prince",
+        "Fleetwood Mac",
+        "My Chemical Romance",
+        "The 1975",
+        "Tame Impala",
+        "Panic! At The Disco",
+        "The Killers",
+        "The Beatles"
+      ]
+    },
+    "Chon": {
+      "name": "Chon",
+      "yob": 2008,
+      "yod": null,
+      "affiliations": [
+        "Chon"
+      ],
+      "instruments": [
+        "Guitar",
+        "Bass",
+        "Drums"
+      ],
+      "genres": [
+        "Progressive Rock",
+        "Math Rock",
+        "Instrumental Rock"
+      ],
+      "influences": [
+        "Animals as Leaders",
+        "The Mars Volta",
+        "Dream Theater",
+        "Polyphia",
+        "Periphery",
+        "Joe Satriani",
+        "Steve Vai",
+        "Metallica",
+        "Rush",
+        "King Crimson"
+      ]
+    },
+    "Jimmy Page": {
+      "name": "Jimmy Page",
+      "yob": 1944,
+      "yod": null,
+      "affiliations": [
+        "The Yardbirds",
+        "Led Zeppelin",
+        "The Firm",
+        "Page and Plant"
+      ],
+      "instruments": [
+        "Guitar",
+        "Bass Guitar",
+        "Mandolin",
+        "Keyboards"
+      ],
+      "genres": [
+        "Rock",
+        "Blues",
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "influences": [
+        "Elmore James",
+        "B.B. King",
+        "Chuck Berry",
+        "Buddy Holly",
+        "The Shadows",
+        "The Beatles",
+        "The Rolling Stones",
+        "Jeff Beck",
+        "Eric Clapton",
+        "Chet Atkins",
+        "Robert Johnson",
+        "Howlin' Wolf",
+        "Muddy Waters",
+        "The Who",
+        "Cream",
+        "The Kinks"
+      ]
+    },
+    "Jeff Beck": {
+      "name": "Jeff Beck",
+      "yob": 1944,
+      "yod": 2023,
+      "affiliations": [
+        "The Yardbirds",
+        "Jeff Beck Group",
+        "Beck, Bogert & Appice",
+        "The Big Town Playboys"
+      ],
+      "instruments": [
+        "Guitar"
+      ],
+      "genres": [
+        "Rock",
+        "Blues",
+        "Jazz Fusion",
+        "Hard Rock"
+      ],
+      "influences": [
+        "Les Paul",
+        "Chuck Berry",
+        "B.B. King",
+        "Jimmy Page",
+        "Eric Clapton",
+        "Jimi Hendrix",
+        "The Beatles",
+        "The Shadows",
+        "Buddy Holly",
+        "Muddy Waters"
+      ]
+    },
+    "Frank Zappa": {
+      "name": "Frank Zappa",
+      "yob": 1940,
+      "yod": 1993,
+      "affiliations": [
+        "The Mothers of Invention",
+        "Grandmothers",
+        "Zappa Plays Zappa"
+      ],
+      "instruments": [
+        "Guitar",
+        "Vocals",
+        "Keyboards",
+        "Bass Guitar",
+        "Drums"
+      ],
+      "genres": [
+        "Rock",
+        "Jazz",
+        "Experimental",
+        "Avant-garde",
+        "Progressive Rock"
+      ],
+      "influences": [
+        "Igor Stravinsky",
+        "Edgard Var\u00e8se",
+        "Duke Ellington",
+        "The Beatles",
+        "Johnny Guitar Watson",
+        "Eric Dolphy",
+        "The Beach Boys",
+        "Bertolt Brecht",
+        "Lenny Bruce",
+        "Captain Beefheart",
+        "The Velvet Underground",
+        "Thelonious Monk",
+        "Franklin Mint",
+        "Ravi Shankar"
+      ]
+    },
+    "Eric Clapton": {
+      "name": "Eric Clapton",
+      "yob": 1945,
+      "yod": null,
+      "affiliations": [
+        "The Yardbirds",
+        "Cream",
+        "Blind Faith",
+        "Derek and the Dominos",
+        "Eric Clapton Band"
+      ],
+      "instruments": [
+        "Guitar",
+        "Vocals"
+      ],
+      "genres": [
+        "Blues",
+        "Rock",
+        "Pop",
+        "Psychedelic Rock"
+      ],
+      "influences": [
+        "B.B. King",
+        "Robert Johnson",
+        "Buddy Guy",
+        "Jimmy Reed",
+        "Muddy Waters",
+        "Albert King",
+        "The Beatles",
+        "The Rolling Stones",
+        "Jimi Hendrix",
+        "Django Reinhardt",
+        "John Lee Hooker",
+        "T-Bone Walker"
+      ]
+    },
+    "Al Di Meola": {
+      "name": "Al Di Meola",
+      "yob": 1954,
+      "yod": null,
+      "affiliations": [
+        "Return to Forever",
+        "The Rite of Strings",
+        "Al Di Meola World Sinfonia"
+      ],
+      "instruments": [
+        "Guitar",
+        "Acoustic Guitar",
+        "Electric Guitar"
+      ],
+      "genres": [
+        "Jazz",
+        "Jazz Fusion",
+        "World Music",
+        "Flamenco",
+        "Progressive Rock"
+      ],
+      "influences": [
+        "John McLaughlin",
+        "Paco de Luc\u00eda",
+        "Andr\u00e9s Segovia",
+        "Jimi Hendrix",
+        "The Beatles",
+        "Django Reinhardt",
+        "Miles Davis",
+        "Chick Corea",
+        "Larry Coryell",
+        "Carlos Santana"
+      ]
+    },
+    "John McLaughlin": {
+      "name": "John McLaughlin",
+      "yob": 1942,
+      "yod": null,
+      "affiliations": [
+        "Mahavishnu Orchestra",
+        "Shakti",
+        "The One Truth Band",
+        "John McLaughlin Trio"
+      ],
+      "instruments": [
+        "Guitar",
+        "Piano"
+      ],
+      "genres": [
+        "Jazz",
+        "Fusion",
+        "Rock",
+        "World Music"
+      ],
+      "influences": [
+        "Miles Davis",
+        "John Coltrane",
+        "Django Reinhardt",
+        "Thelonious Monk",
+        "B.B. King",
+        "Jimi Hendrix",
+        "Eric Clapton",
+        "Carlos Santana",
+        "Al Di Meola",
+        "Pat Metheny"
+      ]
+    },
+    "Led Zeppelin": {
+      "name": "Led Zeppelin",
+      "yob": 1968,
+      "yod": 1980,
+      "affiliations": [
+        "The Yardbirds"
+      ],
+      "instruments": [
+        "Vocals",
+        "Guitar",
+        "Bass",
+        "Drums",
+        "Keyboards"
+      ],
+      "genres": [
+        "Rock",
+        "Hard Rock",
+        "Blues Rock",
+        "Folk Rock"
+      ],
+      "influences": [
+        "Muddy Waters",
+        "Howlin' Wolf",
+        "Robert Johnson",
+        "B.B. King",
+        "Chuck Berry",
+        "Elmore James",
+        "The Beatles",
+        "The Rolling Stones",
+        "The Who",
+        "Cream",
+        "The Kinks",
+        "Bob Dylan",
+        "Simon & Garfunkel",
+        "The Byrds",
+        "The Velvet Underground"
+      ]
+    },
+    "David Gilmour": {
+      "name": "David Gilmour",
+      "yob": 1946,
+      "yod": null,
+      "affiliations": [
+        "Pink Floyd",
+        "David Gilmour (solo career)"
+      ],
+      "instruments": [
+        "Guitar",
+        "Vocals",
+        "Bass guitar",
+        "Keyboards"
+      ],
+      "genres": [
+        "Progressive rock",
+        "Psychedelic rock",
+        "Blues rock"
+      ],
+      "influences": [
+        "B.B. King",
+        "Eric Clapton",
+        "The Beatles",
+        "Bob Dylan",
+        "Jimi Hendrix",
+        "Jeff Beck",
+        "The Shadows",
+        "The Beach Boys",
+        "Chuck Berry",
+        "The Who"
+      ]
+    },
+    "Ritchie Blackmore": {
+      "name": "Ritchie Blackmore",
+      "yob": 1945,
+      "yod": null,
+      "affiliations": [
+        "Deep Purple",
+        "Rainbow"
+      ],
+      "instruments": [
+        "Guitar",
+        "Bass Guitar"
+      ],
+      "genres": [
+        "Rock",
+        "Hard Rock",
+        "Heavy Metal",
+        "Progressive Rock"
+      ],
+      "influences": [
+        "Chuck Berry",
+        "Jimmy Page",
+        "Eric Clapton",
+        "Jeff Beck",
+        "The Shadows",
+        "The Ventures",
+        "Jimi Hendrix",
+        "B.B. King",
+        "Django Reinhardt",
+        "Classical Music (especially Johann Sebastian Bach)"
+      ]
+    },
+    "Cream": {
+      "name": "Cream",
+      "yob": 1966,
+      "yod": 1968,
+      "affiliations": [
+        "Eric Clapton",
+        "Jack Bruce",
+        "Ginger Baker"
+      ],
+      "instruments": [
+        "Guitar",
+        "Bass",
+        "Drums",
+        "Vocals"
+      ],
+      "genres": [
+        "Rock",
+        "Blues Rock",
+        "Psychedelic Rock"
+      ],
+      "influences": [
+        "Robert Johnson",
+        "B.B. King",
+        "Muddy Waters",
+        "Howlin' Wolf",
+        "Albert King",
+        "The Beatles",
+        "The Rolling Stones",
+        "John Coltrane",
+        "Jimi Hendrix",
+        "The Yardbirds"
+      ]
+    },
+    "Deep Purple": {
+      "name": "Deep Purple",
+      "yob": 1968,
+      "yod": null,
+      "affiliations": [
+        "Deep Purple"
+      ],
+      "instruments": [
+        "Vocals",
+        "Guitar",
+        "Bass",
+        "Keyboards",
+        "Drums"
+      ],
+      "genres": [
+        "Rock",
+        "Hard Rock",
+        "Heavy Metal"
+      ],
+      "influences": [
+        "The Beatles",
+        "The Rolling Stones",
+        "Led Zeppelin",
+        "Black Sabbath",
+        "Cream",
+        "Jimi Hendrix",
+        "The Who",
+        "The Kinks",
+        "Van Halen",
+        "Yes",
+        "King Crimson",
+        "The Doors",
+        "Iron Maiden",
+        "UFO",
+        "Rainbow"
+      ]
+    },
+    "Van Halen": {
+      "name": "Van Halen",
+      "yob": 1972,
+      "yod": 2020,
+      "affiliations": [
+        "Van Halen",
+        "David Lee Roth",
+        "Sammy Hagar",
+        "Gary Cherone"
+      ],
+      "instruments": [
+        "Electric guitar",
+        "Vocals",
+        "Bass guitar",
+        "Drums"
+      ],
+      "genres": [
+        "Hard rock",
+        "Heavy metal",
+        "Rock"
+      ],
+      "influences": [
+        "The Beatles",
+        "Led Zeppelin",
+        "Cream",
+        "Jimi Hendrix",
+        "The Who",
+        "Black Sabbath",
+        "Deep Purple",
+        "Montrose",
+        "Alice Cooper",
+        "The Beach Boys",
+        "Eric Clapton",
+        "The Rolling Stones"
+      ]
+    },
+    "The Ventures": {
+      "name": "The Ventures",
+      "yob": 1958,
+      "yod": null,
+      "affiliations": [
+        "The Ventures"
+      ],
+      "instruments": [
+        "Guitar",
+        "Bass",
+        "Drums"
+      ],
+      "genres": [
+        "Rock",
+        "Instrumental Rock",
+        "Surf Rock"
+      ],
+      "influences": [
+        "The Shadows",
+        "Duane Eddy",
+        "Link Wray",
+        "Chuck Berry",
+        "Buddy Holly",
+        "The Beach Boys",
+        "The Beatles",
+        "The Four Seasons",
+        "The Crickets",
+        "The Tornados"
+      ]
+    },
+    "The Shadows": {
+      "name": "The Shadows",
+      "yob": 1958,
+      "yod": null,
+      "affiliations": [
+        "The Shadows"
+      ],
+      "instruments": [
+        "Guitar",
+        "Bass",
+        "Drums"
+      ],
+      "genres": [
+        "Rock",
+        "Instrumental",
+        "Pop"
+      ],
+      "influences": [
+        "Chuck Berry",
+        "Buddy Holly",
+        "The Ventures",
+        "Link Wray",
+        "Chet Atkins",
+        "Les Paul",
+        "The Beatles",
+        "The Beach Boys",
+        "The Everly Brothers",
+        "Duane Eddy"
+      ]
+    },
+    "Stevie Ray Vaughan": {
+      "name": "Stevie Ray Vaughan",
+      "yob": 1954,
+      "yod": 1990,
+      "affiliations": [
+        "Double Trouble"
+      ],
+      "instruments": [
+        "Guitar",
+        "Vocals"
+      ],
+      "genres": [
+        "Blues",
+        "Rock",
+        "Blues Rock"
+      ],
+      "influences": [
+        "Jimi Hendrix",
+        "Albert King",
+        "B.B. King",
+        "Freddie King",
+        "Muddy Waters",
+        "Johnny Winter",
+        "T-Bone Walker",
+        "Buddy Guy",
+        "Eric Clapton",
+        "The Beatles",
+        "Cream",
+        "The Rolling Stones"
+      ]
+    },
+    "B.B. King": {
+      "name": "B.B. King",
+      "yob": 1925,
+      "yod": 2015,
+      "affiliations": [
+        "B.B. King Blues Band"
+      ],
+      "instruments": [
+        "Guitar",
+        "Vocals"
+      ],
+      "genres": [
+        "Blues",
+        "R&B",
+        "Soul"
+      ],
+      "influences": [
+        "T-Bone Walker",
+        "Charlie Christian",
+        "Lonnie Johnson",
+        "Muddy Waters",
+        "John Lee Hooker",
+        "B.B. King",
+        "Django Reinhardt",
+        "Louis Jordan",
+        "Ray Charles",
+        "Howlin' Wolf",
+        "Jimmy Reed",
+        "Little Richard",
+        "Elmore James"
+      ]
+    },
+    "Bob Dylan": {
+      "name": "Bob Dylan",
+      "yob": 1941,
+      "yod": null,
+      "affiliations": [
+        "The Traveling Wilburys",
+        "The Band"
+      ],
+      "instruments": [
+        "Vocals",
+        "Guitar",
+        "Harmonica",
+        "Piano"
+      ],
+      "genres": [
+        "Folk",
+        "Rock",
+        "Blues",
+        "Country",
+        "Pop"
+      ],
+      "influences": [
+        "Woody Guthrie",
+        "Robert Johnson",
+        "Hank Williams",
+        "Little Richard",
+        "Elvis Presley",
+        "Johnny Cash",
+        "Pete Seeger",
+        "Lead Belly",
+        "The Weavers",
+        "Buddy Holly",
+        "Chuck Berry",
+        "The Beatles",
+        "The Rolling Stones",
+        "Simon & Garfunkel",
+        "Jimi Hendrix"
+      ]
+    },
+    "David Bowie": {
+      "name": "David Bowie",
+      "yob": 1947,
+      "yod": 2016,
+      "affiliations": [
+        "The Konrads",
+        "The King Bees",
+        "The Manish Boys",
+        "The Lower Third",
+        "David Bowie and the Spiders from Mars",
+        "Tin Machine",
+        "The Next Day"
+      ],
+      "instruments": [
+        "Vocals",
+        "Guitar",
+        "Piano",
+        "Saxophone"
+      ],
+      "genres": [
+        "Rock",
+        "Pop",
+        "Art Rock",
+        "Glam Rock",
+        "Electronic",
+        "Soul",
+        "Funk"
+      ],
+      "influences": [
+        "Little Richard",
+        "Elvis Presley",
+        "The Beatles",
+        "Bob Dylan",
+        "The Velvet Underground",
+        "Iggy Pop",
+        "Kraftwerk",
+        "David Byrne",
+        "Brian Eno",
+        "Bertolt Brecht",
+        "Nico",
+        "The Rolling Stones",
+        "T. Rex",
+        "The Byrds",
+        "The Beach Boys"
+      ]
+    },
+    "Prince": {
+      "name": "Prince",
+      "yob": 1958,
+      "yod": 2016,
+      "affiliations": [
+        "The Revolution",
+        "New Power Generation",
+        "3rdeyegirl"
+      ],
+      "instruments": [
+        "Vocals",
+        "Guitar",
+        "Keyboards",
+        "Bass",
+        "Drums",
+        "Piano"
+      ],
+      "genres": [
+        "Funk",
+        "Rock",
+        "Pop",
+        "R&B",
+        "New Wave",
+        "Soul"
+      ],
+      "influences": [
+        "James Brown",
+        "Sly and the Family Stone",
+        "Jimi Hendrix",
+        "George Clinton",
+        "Stevie Wonder",
+        "David Bowie",
+        "The Beatles",
+        "Curtis Mayfield",
+        "Earth, Wind & Fire",
+        "The Rolling Stones"
+      ]
+    },
+    "James Taylor": {
+      "name": "James Taylor",
+      "yob": 1948,
+      "yod": null,
+      "affiliations": [
+        "The Flying Machine",
+        "James Taylor Quartet"
+      ],
+      "instruments": [
+        "Vocals",
+        "Guitar",
+        "Piano"
+      ],
+      "genres": [
+        "Folk",
+        "Rock",
+        "Pop"
+      ],
+      "influences": [
+        "Bob Dylan",
+        "The Beatles",
+        "Carole King",
+        "Simon & Garfunkel",
+        "Joni Mitchell",
+        "Leonard Cohen",
+        "John Denver",
+        "Buffalo Springfield",
+        "The Beach Boys",
+        "Bert Jansch"
+      ]
+    },
+    "Bill Evans": {
+      "name": "Bill Evans",
+      "yob": 1929,
+      "yod": 1980,
+      "affiliations": [
+        "Miles Davis",
+        "Bill Evans Trio",
+        "Tony Bennett",
+        "Chick Corea",
+        "Scott LaFaro"
+      ],
+      "instruments": [
+        "Piano"
+      ],
+      "genres": [
+        "Jazz",
+        "Modal Jazz",
+        "Post-Bop"
+      ],
+      "influences": [
+        "Claude Debussy",
+        "Maurice Ravel",
+        "Thelonious Monk",
+        "Oscar Peterson",
+        "Lennie Tristano",
+        "George Gershwin",
+        "Duke Ellington",
+        "Bach",
+        "Chopin",
+        "Fats Waller"
+      ]
+    },
+    "Albert King": {
+      "name": "Albert King",
+      "yob": 1923,
+      "yod": 1992,
+      "affiliations": [
+        "The Kingpins",
+        "Stax Records",
+        "The Blues Brothers Band"
+      ],
+      "instruments": [
+        "Guitar",
+        "Vocals"
+      ],
+      "genres": [
+        "Blues",
+        "Soul",
+        "R&B"
+      ],
+      "influences": [
+        "B.B. King",
+        "T-Bone Walker",
+        "Muddy Waters",
+        "Howlin' Wolf",
+        "Jimmy Reed",
+        "Robert Johnson",
+        "Elmore James",
+        "John Lee Hooker",
+        "Little Walter",
+        "Chuck Berry"
+      ]
+    },
+    "John Lee Hooker": {
+      "name": "John Lee Hooker",
+      "yob": 1917,
+      "yod": 2001,
+      "affiliations": [
+        "The Coast to Coast Blues Band",
+        "The John Lee Hooker Blues Band"
+      ],
+      "instruments": [
+        "Guitar",
+        "Vocals"
+      ],
+      "genres": [
+        "Blues",
+        "Delta Blues",
+        "Chicago Blues"
+      ],
+      "influences": [
+        "Blind Lemon Jefferson",
+        "Robert Johnson",
+        "T-Bone Walker",
+        "Muddy Waters",
+        "B.B. King",
+        "Son House",
+        "Jimmy Reed",
+        "Howlin' Wolf",
+        "Louis Jordan",
+        "Big Bill Broonzy"
+      ]
+    },
+    "Buddy Guy": {
+      "name": "Buddy Guy",
+      "yob": 1936,
+      "yod": null,
+      "affiliations": [
+        "The Buddy Guy Band",
+        "The Muddy Waters Band"
+      ],
+      "instruments": [
+        "Guitar",
+        "Vocals"
+      ],
+      "genres": [
+        "Blues",
+        "Rock",
+        "Jazz"
+      ],
+      "influences": [
+        "Muddy Waters",
+        "B.B. King",
+        "T-Bone Walker",
+        "Howlin' Wolf",
+        "John Lee Hooker",
+        "Jimmy Reed",
+        "Albert King",
+        "Eric Clapton",
+        "Jimi Hendrix",
+        "Stevie Ray Vaughan"
+      ]
+    },
+    "Van Morrison": {
+      "name": "Van Morrison",
+      "yob": 1945,
+      "yod": null,
+      "affiliations": [
+        "Them",
+        "Solo Artist"
+      ],
+      "instruments": [
+        "Vocals",
+        "Guitar",
+        "Harmonica",
+        "Piano"
+      ],
+      "genres": [
+        "Rock",
+        "Blues",
+        "Folk",
+        "Jazz",
+        "Soul"
+      ],
+      "influences": [
+        "Ray Charles",
+        "John Lee Hooker",
+        "Thelonious Monk",
+        "B.B. King",
+        "Bob Dylan",
+        "Louis Armstrong",
+        "Sam Cooke",
+        "The Clovers",
+        "Lead Belly",
+        "Woody Guthrie",
+        "The Weavers",
+        "The Band",
+        "James Brown",
+        "Chuck Berry",
+        "Little Richard"
+      ]
+    },
+    "Simon & Garfunkel": {
+      "name": "Simon & Garfunkel",
+      "yob": 1964,
+      "yod": null,
+      "affiliations": [
+        "Simon & Garfunkel"
+      ],
+      "instruments": [
+        "Vocals",
+        "Guitar",
+        "Bass",
+        "Keyboards"
+      ],
+      "genres": [
+        "Folk Rock",
+        "Pop",
+        "Rock"
+      ],
+      "influences": [
+        "The Everly Brothers",
+        "Bob Dylan",
+        "The Beatles",
+        "Woody Guthrie",
+        "Simon & Garfunkel's own earlier work as Tom & Jerry",
+        "The Kingston Trio",
+        "Pete Seeger",
+        "The Weavers",
+        "The Byrds",
+        "Buffalo Springfield"
+      ]
+    },
+    "Bud Powell": {
+      "name": "Bud Powell",
+      "yob": 1924,
+      "yod": 1966,
+      "affiliations": [
+        "The Modern Jazz Quartet",
+        "The Jazz Messengers"
+      ],
+      "instruments": [
+        "Piano"
+      ],
+      "genres": [
+        "Jazz",
+        "Bebop"
+      ],
+      "influences": [
+        "Thelonious Monk",
+        "Art Tatum",
+        "Charlie Parker",
+        "Dizzy Gillespie",
+        "Billie Holiday",
+        "Fats Waller",
+        "Count Basie",
+        "Duke Ellington"
+      ]
+    },
+    "Thelonious Monk": {
+      "name": "Thelonious Monk",
+      "yob": 1917,
+      "yod": 1982,
+      "affiliations": [
+        "Thelonious Monk Quartet",
+        "Thelonious Monk Trio",
+        "Thelonious Monk Big Band"
+      ],
+      "instruments": [
+        "Piano"
+      ],
+      "genres": [
+        "Jazz"
+      ],
+      "influences": [
+        "Louis Armstrong",
+        "Duke Ellington",
+        "Charlie Parker",
+        "Budd Powell",
+        "Art Tatum",
+        "Billie Holiday",
+        "Fats Waller",
+        "Count Basie",
+        "John Coltrane",
+        "Miles Davis",
+        "Eric Dolphy",
+        "Max Roach"
+      ]
+    },
+    "Oscar Peterson": {
+      "name": "Oscar Peterson",
+      "yob": 1925,
+      "yod": 2007,
+      "affiliations": [
+        "Oscar Peterson Trio",
+        "The Jazz at the Philharmonic",
+        "The Oscar Peterson Quartet"
+      ],
+      "instruments": [
+        "Piano"
+      ],
+      "genres": [
+        "Jazz",
+        "Bebop",
+        "Swing"
+      ],
+      "influences": [
+        "Art Tatum",
+        "Nat King Cole",
+        "Duke Ellington",
+        "Count Basie",
+        "Bill Evans",
+        "Thelonious Monk",
+        "Fats Waller",
+        "George Gershwin",
+        "Benny Goodman",
+        "Ella Fitzgerald"
+      ]
+    },
+    "Miles Davis": {
+      "name": "Miles Davis",
+      "yob": 1926,
+      "yod": 1991,
+      "affiliations": [
+        "Miles Davis Quintet",
+        "The Second Great Quintet",
+        "Bitches Brew Band"
+      ],
+      "instruments": [
+        "trumpet",
+        "cornet",
+        "piano"
+      ],
+      "genres": [
+        "jazz",
+        "cool jazz",
+        "modal jazz",
+        "jazz fusion",
+        "hard bop"
+      ],
+      "influences": [
+        "Louis Armstrong",
+        "Duke Ellington",
+        "Charlie Parker",
+        "John Coltrane",
+        "Thelonious Monk",
+        "Billie Holiday",
+        "Chet Baker",
+        "Fats Navarro",
+        "Bebop musicians",
+        "Ornette Coleman",
+        "Jimi Hendrix",
+        "Sly and the Family Stone",
+        "James Brown",
+        "Prince"
+      ]
+    },
+    "John Coltrane": {
+      "name": "John Coltrane",
+      "yob": 1926,
+      "yod": 1967,
+      "affiliations": [
+        "Miles Davis Quintet",
+        "Thelonious Monk Quartet",
+        "John Coltrane Quartet",
+        "Chic Corea's Return to Forever"
+      ],
+      "instruments": [
+        "saxophone",
+        "clarinet",
+        "flute"
+      ],
+      "genres": [
+        "jazz",
+        "modal jazz",
+        "free jazz"
+      ],
+      "influences": [
+        "Charlie Parker",
+        "Dizzy Gillespie",
+        "Thelonious Monk",
+        "Miles Davis",
+        "Benny Golson",
+        "Sonny Rollins",
+        "Ornette Coleman",
+        "Duke Ellington",
+        "Johnny Hodges",
+        "Eric Dolphy",
+        "Albert Ayler",
+        "Bill Evans",
+        "Cecil Taylor"
+      ]
+    },
+    "Herbie Hancock": {
+      "name": "Herbie Hancock",
+      "yob": 1940,
+      "yod": null,
+      "affiliations": [
+        "Miles Davis Quintet",
+        "Headhunters",
+        "The Herbie Hancock Trio",
+        "V.S.O.P."
+      ],
+      "instruments": [
+        "Piano",
+        "Keyboards",
+        "Synthesizer",
+        "Electric Piano"
+      ],
+      "genres": [
+        "Jazz",
+        "Funk",
+        "Fusion",
+        "R&B",
+        "Electronic"
+      ],
+      "influences": [
+        "Thelonious Monk",
+        "Bill Evans",
+        "Oscar Peterson",
+        "Miles Davis",
+        "John Coltrane",
+        "Chick Corea",
+        "McCoy Tyner",
+        "Duke Ellington",
+        "George Gershwin",
+        "Jimi Hendrix",
+        "Sly and the Family Stone",
+        "Stevie Wonder",
+        "Prince",
+        "David Bowie"
+      ]
+    },
+    "Duke Ellington": {
+      "name": "Duke Ellington",
+      "yob": 1899,
+      "yod": 1974,
+      "affiliations": [
+        "Duke Ellington Orchestra"
+      ],
+      "instruments": [
+        "Piano",
+        "Composer",
+        "Bandleader"
+      ],
+      "genres": [
+        "Jazz",
+        "Big Band",
+        "Swing"
+      ],
+      "influences": [
+        "James P. Johnson",
+        "Fats Waller",
+        "Louis Armstrong",
+        "Benny Goodman",
+        "Count Basie",
+        "Cole Porter",
+        "George Gershwin",
+        "Irving Berlin",
+        "Stravinsky",
+        "Bach",
+        "Chopin",
+        "Django Reinhardt",
+        "Thelonious Monk",
+        "Ella Fitzgerald",
+        "Billie Holiday",
+        "Charlie Parker",
+        "Miles Davis",
+        "John Coltrane",
+        "Charles Mingus",
+        "Art Tatum",
+        "Oscar Peterson",
+        "Nat King Cole",
+        "Johnny Hodges",
+        "Cootie Williams",
+        "Ben Webster",
+        "Billy Strayhorn"
+      ]
+    },
+    "George Gershwin": {
+      "name": "George Gershwin",
+      "yob": 1898,
+      "yod": 1937,
+      "affiliations": [
+        "Gershwin Brothers",
+        "Rhapsody in Blue",
+        "Porgy and Bess"
+      ],
+      "instruments": [
+        "Piano",
+        "Composer"
+      ],
+      "genres": [
+        "Classical",
+        "Jazz",
+        "Broadway"
+      ],
+      "influences": [
+        "Scott Joplin",
+        "Irving Berlin",
+        "Claude Debussy",
+        "Fr\u00e9d\u00e9ric Chopin",
+        "George M. Cohan",
+        "Victor Herbert",
+        "Brahms",
+        "Richard Wagner",
+        "Duke Ellington",
+        "Fats Waller"
+      ]
+    },
+    "Bach": {
+      "name": "Johann Sebastian Bach",
+      "yob": 1685,
+      "yod": 1750,
+      "affiliations": [
+        "Thomaskantor",
+        "Kapellmeister",
+        "Court composer"
+      ],
+      "instruments": [
+        "Organ",
+        "Harpsichord",
+        "Violin",
+        "Viola",
+        "Cello"
+      ],
+      "genres": [
+        "Baroque",
+        "Classical"
+      ],
+      "influences": [
+        "Palestrina",
+        "Vivaldi",
+        "Lutheran chorale tradition",
+        "Corelli",
+        "Froberger",
+        "Buxtehude",
+        "Sch\u00fctz",
+        "Couperin"
+      ]
+    },
+    "Stravinsky": {
+      "name": "Igor Stravinsky",
+      "yob": 1882,
+      "yod": 1971,
+      "affiliations": [
+        "Ballets Russes",
+        "Columbia University"
+      ],
+      "instruments": [
+        "Piano",
+        "Conducting"
+      ],
+      "genres": [
+        "Classical",
+        "Modern Classical",
+        "Neoclassicism",
+        "Primitivism"
+      ],
+      "influences": [
+        "Claude Debussy",
+        "Richard Wagner",
+        "Arnold Schoenberg",
+        "Franz Liszt",
+        "Johannes Brahms",
+        "Modest Mussorgsky",
+        "Nikolai Rimsky-Korsakov",
+        "Sergei Prokofiev",
+        "Charles Ives",
+        "Dmitri Shostakovich"
+      ]
+    }
+  },
+  "influence_graph": {
+    "Tim Henson": [
+      "Steve Vai",
+      "Joe Satriani",
+      "John Mayer",
+      "Chic Corea",
+      "Animals as Leaders",
+      "Periphery",
+      "Metallica",
+      "Dream Theater",
+      "The Beatles",
+      "Jimi Hendrix",
+      "Nirvana",
+      "The 1975",
+      "Chon"
+    ],
+    "Steve Vai": [
+      "Jimi Hendrix",
+      "Jimmy Page",
+      "Jeff Beck",
+      "Joe Satriani",
+      "Frank Zappa",
+      "Eric Clapton",
+      "Al Di Meola",
+      "John McLaughlin",
+      "The Beatles",
+      "Led Zeppelin"
+    ],
+    "Joe Satriani": [
+      "Jimi Hendrix",
+      "Jimmy Page",
+      "Jeff Beck",
+      "Eric Clapton",
+      "David Gilmour",
+      "Ritchie Blackmore",
+      "The Beatles",
+      "Cream",
+      "Led Zeppelin",
+      "Deep Purple",
+      "Van Halen",
+      "Frank Zappa",
+      "The Ventures",
+      "The Shadows"
+    ],
+    "John Mayer": [
+      "Stevie Ray Vaughan",
+      "Eric Clapton",
+      "Jimi Hendrix",
+      "B.B. King",
+      "Bob Dylan",
+      "The Beatles",
+      "David Bowie",
+      "Prince",
+      "James Taylor",
+      "Bill Evans",
+      "Albert King",
+      "John Lee Hooker",
+      "Buddy Guy",
+      "Van Morrison",
+      "Simon & Garfunkel"
+    ],
+    "Chic Corea": [
+      "Bud Powell",
+      "Thelonious Monk",
+      "Bill Evans",
+      "Oscar Peterson",
+      "Miles Davis",
+      "John Coltrane",
+      "Herbie Hancock",
+      "Duke Ellington",
+      "George Gershwin",
+      "Bach",
+      "Stravinsky",
+      "Brahms"
+    ],
+    "Animals as Leaders": [
+      "Meshuggah",
+      "Dream Theater",
+      "Steve Vai",
+      "Joe Satriani",
+      "Periphery",
+      "The Mars Volta",
+      "Animals as Leaders",
+      "Chon",
+      "Plini",
+      "Between the Buried and Me"
+    ],
+    "Periphery": [
+      "Meshuggah",
+      "Dream Theater",
+      "Between the Buried and Me",
+      "The Dillinger Escape Plan",
+      "Tool",
+      "Opeth",
+      "Deftones",
+      "Karnivool",
+      "Strapping Young Lad",
+      "August Burns Red"
+    ],
+    "Metallica": [
+      "Black Sabbath",
+      "Deep Purple",
+      "Led Zeppelin",
+      "Mot\u00f6rhead",
+      "Judas Priest",
+      "AC/DC",
+      "Van Halen",
+      "Iron Maiden",
+      "UFO",
+      "Mercyful Fate",
+      "Diamond Head",
+      "Blue \u00d6yster Cult",
+      "Rush",
+      "The Misfits",
+      "The Ramones"
+    ],
+    "Dream Theater": [
+      "Rush",
+      "Yes",
+      "Pink Floyd",
+      "King Crimson",
+      "Metallica",
+      "Judas Priest",
+      "Iron Maiden",
+      "Black Sabbath",
+      "Genesis",
+      "The Beatles",
+      "Frank Zappa",
+      "Van Halen",
+      "Queen",
+      "The Who",
+      "Led Zeppelin"
+    ],
+    "The Beatles": [
+      "Chuck Berry",
+      "Little Richard",
+      "Buddy Holly",
+      "Elvis Presley",
+      "The Everly Brothers",
+      "Bob Dylan",
+      "Carl Perkins",
+      "Ray Charles",
+      "The Beach Boys",
+      "Indian Classical Music",
+      "Bach",
+      "B.B. King",
+      "The Byrds",
+      "The Kinks",
+      "The Who",
+      "Simon & Garfunkel"
+    ],
+    "Jimi Hendrix": [
+      "B.B. King",
+      "Chuck Berry",
+      "Robert Johnson",
+      "Muddy Waters",
+      "Little Richard",
+      "Elvis Presley",
+      "Buddy Holly",
+      "The Beatles",
+      "Bob Dylan",
+      "Albert King",
+      "Screamin' Jay Hawkins",
+      "T-Bone Walker",
+      "Howlin' Wolf",
+      "The Isley Brothers",
+      "James Brown"
+    ],
+    "Nirvana": [
+      "The Beatles",
+      "The Melvins",
+      "Black Flag",
+      "The Pixies",
+      "David Bowie",
+      "Led Zeppelin",
+      "R.E.M.",
+      "Sonic Youth",
+      "The Stooges",
+      "The Sex Pistols",
+      "Kiss",
+      "The Who",
+      "The Ramones",
+      "The Smiths",
+      "The Cure"
+    ],
+    "The 1975": [
+      "The Cure",
+      "The Smashing Pumpkins",
+      "The 1975",
+      "The Strokes",
+      "The xx",
+      "David Bowie",
+      "Radiohead",
+      "Talking Heads",
+      "Prince",
+      "Fleetwood Mac",
+      "My Chemical Romance",
+      "The 1975",
+      "Tame Impala",
+      "Panic! At The Disco",
+      "The Killers",
+      "The Beatles"
+    ],
+    "Chon": [
+      "Animals as Leaders",
+      "The Mars Volta",
+      "Dream Theater",
+      "Polyphia",
+      "Periphery",
+      "Joe Satriani",
+      "Steve Vai",
+      "Metallica",
+      "Rush",
+      "King Crimson"
+    ],
+    "Jimmy Page": [
+      "Elmore James",
+      "B.B. King",
+      "Chuck Berry",
+      "Buddy Holly",
+      "The Shadows",
+      "The Beatles",
+      "The Rolling Stones",
+      "Jeff Beck",
+      "Eric Clapton",
+      "Chet Atkins",
+      "Robert Johnson",
+      "Howlin' Wolf",
+      "Muddy Waters",
+      "The Who",
+      "Cream",
+      "The Kinks"
+    ],
+    "Jeff Beck": [
+      "Les Paul",
+      "Chuck Berry",
+      "B.B. King",
+      "Jimmy Page",
+      "Eric Clapton",
+      "Jimi Hendrix",
+      "The Beatles",
+      "The Shadows",
+      "Buddy Holly",
+      "Muddy Waters"
+    ],
+    "Frank Zappa": [
+      "Igor Stravinsky",
+      "Edgard Var\u00e8se",
+      "Duke Ellington",
+      "The Beatles",
+      "Johnny Guitar Watson",
+      "Eric Dolphy",
+      "The Beach Boys",
+      "Bertolt Brecht",
+      "Lenny Bruce",
+      "Captain Beefheart",
+      "The Velvet Underground",
+      "Thelonious Monk",
+      "Franklin Mint",
+      "Ravi Shankar"
+    ],
+    "Eric Clapton": [
+      "B.B. King",
+      "Robert Johnson",
+      "Buddy Guy",
+      "Jimmy Reed",
+      "Muddy Waters",
+      "Albert King",
+      "The Beatles",
+      "The Rolling Stones",
+      "Jimi Hendrix",
+      "Django Reinhardt",
+      "John Lee Hooker",
+      "T-Bone Walker"
+    ],
+    "Al Di Meola": [
+      "John McLaughlin",
+      "Paco de Luc\u00eda",
+      "Andr\u00e9s Segovia",
+      "Jimi Hendrix",
+      "The Beatles",
+      "Django Reinhardt",
+      "Miles Davis",
+      "Chick Corea",
+      "Larry Coryell",
+      "Carlos Santana"
+    ],
+    "John McLaughlin": [
+      "Miles Davis",
+      "John Coltrane",
+      "Django Reinhardt",
+      "Thelonious Monk",
+      "B.B. King",
+      "Jimi Hendrix",
+      "Eric Clapton",
+      "Carlos Santana",
+      "Al Di Meola",
+      "Pat Metheny"
+    ],
+    "Led Zeppelin": [
+      "Muddy Waters",
+      "Howlin' Wolf",
+      "Robert Johnson",
+      "B.B. King",
+      "Chuck Berry",
+      "Elmore James",
+      "The Beatles",
+      "The Rolling Stones",
+      "The Who",
+      "Cream",
+      "The Kinks",
+      "Bob Dylan",
+      "Simon & Garfunkel",
+      "The Byrds",
+      "The Velvet Underground"
+    ],
+    "David Gilmour": [
+      "B.B. King",
+      "Eric Clapton",
+      "The Beatles",
+      "Bob Dylan",
+      "Jimi Hendrix",
+      "Jeff Beck",
+      "The Shadows",
+      "The Beach Boys",
+      "Chuck Berry",
+      "The Who"
+    ],
+    "Ritchie Blackmore": [
+      "Chuck Berry",
+      "Jimmy Page",
+      "Eric Clapton",
+      "Jeff Beck",
+      "The Shadows",
+      "The Ventures",
+      "Jimi Hendrix",
+      "B.B. King",
+      "Django Reinhardt",
+      "Classical Music (especially Johann Sebastian Bach)"
+    ],
+    "Cream": [
+      "Robert Johnson",
+      "B.B. King",
+      "Muddy Waters",
+      "Howlin' Wolf",
+      "Albert King",
+      "The Beatles",
+      "The Rolling Stones",
+      "John Coltrane",
+      "Jimi Hendrix",
+      "The Yardbirds"
+    ],
+    "Deep Purple": [
+      "The Beatles",
+      "The Rolling Stones",
+      "Led Zeppelin",
+      "Black Sabbath",
+      "Cream",
+      "Jimi Hendrix",
+      "The Who",
+      "The Kinks",
+      "Van Halen",
+      "Yes",
+      "King Crimson",
+      "The Doors",
+      "Iron Maiden",
+      "UFO",
+      "Rainbow"
+    ],
+    "Van Halen": [
+      "The Beatles",
+      "Led Zeppelin",
+      "Cream",
+      "Jimi Hendrix",
+      "The Who",
+      "Black Sabbath",
+      "Deep Purple",
+      "Montrose",
+      "Alice Cooper",
+      "The Beach Boys",
+      "Eric Clapton",
+      "The Rolling Stones"
+    ],
+    "The Ventures": [
+      "The Shadows",
+      "Duane Eddy",
+      "Link Wray",
+      "Chuck Berry",
+      "Buddy Holly",
+      "The Beach Boys",
+      "The Beatles",
+      "The Four Seasons",
+      "The Crickets",
+      "The Tornados"
+    ],
+    "The Shadows": [
+      "Chuck Berry",
+      "Buddy Holly",
+      "The Ventures",
+      "Link Wray",
+      "Chet Atkins",
+      "Les Paul",
+      "The Beatles",
+      "The Beach Boys",
+      "The Everly Brothers",
+      "Duane Eddy"
+    ],
+    "Stevie Ray Vaughan": [
+      "Jimi Hendrix",
+      "Albert King",
+      "B.B. King",
+      "Freddie King",
+      "Muddy Waters",
+      "Johnny Winter",
+      "T-Bone Walker",
+      "Buddy Guy",
+      "Eric Clapton",
+      "The Beatles",
+      "Cream",
+      "The Rolling Stones"
+    ],
+    "B.B. King": [
+      "T-Bone Walker",
+      "Charlie Christian",
+      "Lonnie Johnson",
+      "Muddy Waters",
+      "John Lee Hooker",
+      "B.B. King",
+      "Django Reinhardt",
+      "Louis Jordan",
+      "Ray Charles",
+      "Howlin' Wolf",
+      "Jimmy Reed",
+      "Little Richard",
+      "Elmore James"
+    ],
+    "Bob Dylan": [
+      "Woody Guthrie",
+      "Robert Johnson",
+      "Hank Williams",
+      "Little Richard",
+      "Elvis Presley",
+      "Johnny Cash",
+      "Pete Seeger",
+      "Lead Belly",
+      "The Weavers",
+      "Buddy Holly",
+      "Chuck Berry",
+      "The Beatles",
+      "The Rolling Stones",
+      "Simon & Garfunkel",
+      "Jimi Hendrix"
+    ],
+    "David Bowie": [
+      "Little Richard",
+      "Elvis Presley",
+      "The Beatles",
+      "Bob Dylan",
+      "The Velvet Underground",
+      "Iggy Pop",
+      "Kraftwerk",
+      "David Byrne",
+      "Brian Eno",
+      "Bertolt Brecht",
+      "Nico",
+      "The Rolling Stones",
+      "T. Rex",
+      "The Byrds",
+      "The Beach Boys"
+    ],
+    "Prince": [
+      "James Brown",
+      "Sly and the Family Stone",
+      "Jimi Hendrix",
+      "George Clinton",
+      "Stevie Wonder",
+      "David Bowie",
+      "The Beatles",
+      "Curtis Mayfield",
+      "Earth, Wind & Fire",
+      "The Rolling Stones"
+    ],
+    "James Taylor": [
+      "Bob Dylan",
+      "The Beatles",
+      "Carole King",
+      "Simon & Garfunkel",
+      "Joni Mitchell",
+      "Leonard Cohen",
+      "John Denver",
+      "Buffalo Springfield",
+      "The Beach Boys",
+      "Bert Jansch"
+    ],
+    "Bill Evans": [
+      "Claude Debussy",
+      "Maurice Ravel",
+      "Thelonious Monk",
+      "Oscar Peterson",
+      "Lennie Tristano",
+      "George Gershwin",
+      "Duke Ellington",
+      "Bach",
+      "Chopin",
+      "Fats Waller"
+    ],
+    "Albert King": [
+      "B.B. King",
+      "T-Bone Walker",
+      "Muddy Waters",
+      "Howlin' Wolf",
+      "Jimmy Reed",
+      "Robert Johnson",
+      "Elmore James",
+      "John Lee Hooker",
+      "Little Walter",
+      "Chuck Berry"
+    ],
+    "John Lee Hooker": [
+      "Blind Lemon Jefferson",
+      "Robert Johnson",
+      "T-Bone Walker",
+      "Muddy Waters",
+      "B.B. King",
+      "Son House",
+      "Jimmy Reed",
+      "Howlin' Wolf",
+      "Louis Jordan",
+      "Big Bill Broonzy"
+    ],
+    "Buddy Guy": [
+      "Muddy Waters",
+      "B.B. King",
+      "T-Bone Walker",
+      "Howlin' Wolf",
+      "John Lee Hooker",
+      "Jimmy Reed",
+      "Albert King",
+      "Eric Clapton",
+      "Jimi Hendrix",
+      "Stevie Ray Vaughan"
+    ],
+    "Van Morrison": [
+      "Ray Charles",
+      "John Lee Hooker",
+      "Thelonious Monk",
+      "B.B. King",
+      "Bob Dylan",
+      "Louis Armstrong",
+      "Sam Cooke",
+      "The Clovers",
+      "Lead Belly",
+      "Woody Guthrie",
+      "The Weavers",
+      "The Band",
+      "James Brown",
+      "Chuck Berry",
+      "Little Richard"
+    ],
+    "Simon & Garfunkel": [
+      "The Everly Brothers",
+      "Bob Dylan",
+      "The Beatles",
+      "Woody Guthrie",
+      "Simon & Garfunkel's own earlier work as Tom & Jerry",
+      "The Kingston Trio",
+      "Pete Seeger",
+      "The Weavers",
+      "The Byrds",
+      "Buffalo Springfield"
+    ],
+    "Bud Powell": [
+      "Thelonious Monk",
+      "Art Tatum",
+      "Charlie Parker",
+      "Dizzy Gillespie",
+      "Billie Holiday",
+      "Fats Waller",
+      "Count Basie",
+      "Duke Ellington"
+    ],
+    "Thelonious Monk": [
+      "Louis Armstrong",
+      "Duke Ellington",
+      "Charlie Parker",
+      "Budd Powell",
+      "Art Tatum",
+      "Billie Holiday",
+      "Fats Waller",
+      "Count Basie",
+      "John Coltrane",
+      "Miles Davis",
+      "Eric Dolphy",
+      "Max Roach"
+    ],
+    "Oscar Peterson": [
+      "Art Tatum",
+      "Nat King Cole",
+      "Duke Ellington",
+      "Count Basie",
+      "Bill Evans",
+      "Thelonious Monk",
+      "Fats Waller",
+      "George Gershwin",
+      "Benny Goodman",
+      "Ella Fitzgerald"
+    ],
+    "Miles Davis": [
+      "Louis Armstrong",
+      "Duke Ellington",
+      "Charlie Parker",
+      "John Coltrane",
+      "Thelonious Monk",
+      "Billie Holiday",
+      "Chet Baker",
+      "Fats Navarro",
+      "Bebop musicians",
+      "Ornette Coleman",
+      "Jimi Hendrix",
+      "Sly and the Family Stone",
+      "James Brown",
+      "Prince"
+    ],
+    "John Coltrane": [
+      "Charlie Parker",
+      "Dizzy Gillespie",
+      "Thelonious Monk",
+      "Miles Davis",
+      "Benny Golson",
+      "Sonny Rollins",
+      "Ornette Coleman",
+      "Duke Ellington",
+      "Johnny Hodges",
+      "Eric Dolphy",
+      "Albert Ayler",
+      "Bill Evans",
+      "Cecil Taylor"
+    ],
+    "Herbie Hancock": [
+      "Thelonious Monk",
+      "Bill Evans",
+      "Oscar Peterson",
+      "Miles Davis",
+      "John Coltrane",
+      "Chick Corea",
+      "McCoy Tyner",
+      "Duke Ellington",
+      "George Gershwin",
+      "Jimi Hendrix",
+      "Sly and the Family Stone",
+      "Stevie Wonder",
+      "Prince",
+      "David Bowie"
+    ],
+    "Duke Ellington": [
+      "James P. Johnson",
+      "Fats Waller",
+      "Louis Armstrong",
+      "Benny Goodman",
+      "Count Basie",
+      "Cole Porter",
+      "George Gershwin",
+      "Irving Berlin",
+      "Stravinsky",
+      "Bach",
+      "Chopin",
+      "Django Reinhardt",
+      "Thelonious Monk",
+      "Ella Fitzgerald",
+      "Billie Holiday",
+      "Charlie Parker",
+      "Miles Davis",
+      "John Coltrane",
+      "Charles Mingus",
+      "Art Tatum",
+      "Oscar Peterson",
+      "Nat King Cole",
+      "Johnny Hodges",
+      "Cootie Williams",
+      "Ben Webster",
+      "Billy Strayhorn"
+    ],
+    "George Gershwin": [
+      "Scott Joplin",
+      "Irving Berlin",
+      "Claude Debussy",
+      "Fr\u00e9d\u00e9ric Chopin",
+      "George M. Cohan",
+      "Victor Herbert",
+      "Brahms",
+      "Richard Wagner",
+      "Duke Ellington",
+      "Fats Waller"
+    ],
+    "Bach": [
+      "Palestrina",
+      "Vivaldi",
+      "Lutheran chorale tradition",
+      "Corelli",
+      "Froberger",
+      "Buxtehude",
+      "Sch\u00fctz",
+      "Couperin"
+    ],
+    "Stravinsky": [
+      "Claude Debussy",
+      "Richard Wagner",
+      "Arnold Schoenberg",
+      "Franz Liszt",
+      "Johannes Brahms",
+      "Modest Mussorgsky",
+      "Nikolai Rimsky-Korsakov",
+      "Sergei Prokofiev",
+      "Charles Ives",
+      "Dmitri Shostakovich"
+    ]
+  }
+}
